@@ -1,3 +1,3 @@
 Eric Katzelnick's Data Analysis Portfolio
 
-![Alt text](~/mid13-16.png "Title")
+<img src="~/mid13-17.png" width="350"/>
