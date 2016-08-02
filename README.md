@@ -2,6 +2,7 @@ Eric Katzelnick's Data Analysis Portfolio
 
 Complete R code:
 
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/trimmed_capstone_script.R">2010</a>
 
 
 ebird fall peak dates 2010-2013:
