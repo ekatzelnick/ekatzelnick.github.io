@@ -2,7 +2,7 @@ Eric Katzelnick's Data Analysis Portfolio
 
 [![alt text](https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/h9.png)](https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/h9.png)
 
-<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/h9.png">link text</a>
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/ebird2011_peak.gif">link text</a>
 
 [![tracking ebird peaks in 2010](https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/ebird2010_peak.gif)](https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/ebird2010_peak.gif)
 
