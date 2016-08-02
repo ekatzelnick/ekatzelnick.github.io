@@ -1,3 +1,3 @@
 Eric Katzelnick's Data Analysis Portfolio
 
-<img src="~/mid13-17.png" width="350"/>
+![alt text](https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/h9.png)
