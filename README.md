@@ -74,5 +74,8 @@ Fall Peak Dates over time at six Hawk Watch locations:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Pilgrim.png">Pilgrim Heights</a>
 
+Correlation between peak dates for Acadia Hawkwatch and nearby ebird locations:
+
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/acadia_corr.png">Correlation of Peaks</a>
 
 
