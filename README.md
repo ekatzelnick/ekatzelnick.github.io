@@ -40,3 +40,14 @@ Hawk Watch fall peak dates 2002-2013:
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/hawk12_peak_fast.gif">2012</a>
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/hawk13_peak_fast.gif">2013</a>
 
+Fall Peak Dates over time at six Hawk Watch locations:
+
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Allegheny.png">Allegheny Front</a>
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Acadia_plot.png">Acadia</a>
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Franklin.png">Franklin Mounain</a>
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/mount_peter.png">Mount Peter</a>
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Waggoner.png">Waggoner's Gap</a>
+<a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Pilgrim.png">Pilgrim Heights</a>
+
+
+
