@@ -1,4 +1,4 @@
-Eric Katzelnick's Data Analysis Portfolio 
+Eric Katzelnick's Data Analysis Portfolio
  
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Capstone_project_description.docx">Description of Project and Results</a>
 
