@@ -1,4 +1,4 @@
-<b> <font size="+2"> Eric Katzelnick's Data Analysis Portfolio </font> </b> 
+<b> Eric Katzelnick's Data Analysis Portfolio </b>
  
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Capstone_project_description.docx">Description of Project and Results</a>
 
