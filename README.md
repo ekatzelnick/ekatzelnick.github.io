@@ -4,7 +4,7 @@ Eric Katzelnick's Data Analysis Portfolio
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/trimmed_capstone_script.R">Complete R code</a>
 
-<p> </p>
+<p></p>
 ebird (raptors) fall peak dates 2010-2013:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/ebird2010_peak_fast.gif">2010</a>
@@ -15,7 +15,7 @@ ebird (raptors) fall peak dates 2010-2013:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/ebird2013_peak._fastgif">2013</a>
 
-<p> </p>
+<p></p>
 ebird (raptors) date on which 50% of total fall migration has been observed 2010-2013:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/ebird2010_half_fast.gif">2010</a>
@@ -26,7 +26,7 @@ ebird (raptors) date on which 50% of total fall migration has been observed 2010
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/ebird2013_half_fast.gif">2013</a>
 
-<p> </p>
+<p></p>
 ebird (setophaga) date on which 50% of total fall migration has been observed 2010-2013:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/setop2010_half_fast.gif">2010</a>
@@ -37,7 +37,7 @@ ebird (setophaga) date on which 50% of total fall migration has been observed 20
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/setop2013_half_fast.gif">2013</a>
 
-<p> </p>
+<p></p>
 Hawk Watch peak fall dates 2002-2013:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/hawk2_peak_fast.gif">2002</a>
@@ -64,7 +64,7 @@ Hawk Watch peak fall dates 2002-2013:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/hawk13_peak_fast.gif">2013</a>
 
-<p> </p>
+<p></p>
 Fall Peak Dates over time at six Hawk Watch locations:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Allegheny.png">Allegheny Front</a>
@@ -79,7 +79,7 @@ Fall Peak Dates over time at six Hawk Watch locations:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/Pilgrim.png">Pilgrim Heights</a>
 
-<p> </p>
+<p></p>
 Correlation between peak dates for Acadia Hawkwatch and nearby ebird locations:
 
 <a href="https://github.com/ekatzelnick/ekatzelnick.github.io/blob/master/acadia_corr.png">Correlation of Peaks</a>
